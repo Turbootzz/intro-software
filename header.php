@@ -9,6 +9,12 @@
 </head>
 <body>
     <header>
-    <img src="assets/img/icon.png" alt="GLU icon" width="150" height="60">
+        <nav>
+            <ul>
+                <li>
+                    <img class="header-logo" src="assets/img/icon.png" alt="GLU icon">
+                </li>
+            </ul>
+        </nav>
 </header>
 <main>
