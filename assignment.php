@@ -1,7 +1,8 @@
 <?php 
     include_once "header.php";
 ?>
-<h1>Page 1</h1>
+<section class="main-container">
+  <div class="container">
 <pre><code class="javascript">
 $(document).ready(function() {
   $('pre code').each(function(i, block) {
@@ -9,10 +10,8 @@ $(document).ready(function() {
   });
 });
 </code></pre>
-<p>jemoeder</p>
-<p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.
-     Adipisci, dignissimos. Ab ullam numquam labore sequi laudantium doloremque expedita velit facilis.
-     Aliquam obcaecati quaerat necessitatibus minus eius non velit dolor magni!</p>
+</div>
+</section>
 <?php 
     include_once "footer.php";
 ?>

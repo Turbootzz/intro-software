@@ -3,7 +3,7 @@
 
       <ul>
             <li>
-                  <img src="assets/img/icon.png" alt="Logo">
+                  <img src="assets/img/icon-white.png" alt="Logo">
             </li>
       </ul>
 
