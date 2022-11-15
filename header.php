@@ -12,7 +12,7 @@
         <nav>
             <ul>
                 <li>
-                    <img class="header-logo" src="assets/img/icon.png" alt="GLU icon">
+                    <a href="/"><img class="header-logo" src="assets/img/icon.png" alt="GLU icon"></a>
                 </li>
             </ul>
         </nav>

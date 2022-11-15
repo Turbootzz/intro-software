@@ -1,6 +1,12 @@
 </main>
 <footer>
-footer
+
+      <ul>
+            <li>
+                  <img src="assets/img/icon.png" alt="Logo">
+            </li>
+      </ul>
+
 </footer>
 <!-- javascript files -->
 <script type="text/javascript" src="assets/js/main.js"></script>
