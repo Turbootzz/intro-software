@@ -1,0 +1,20 @@
+{
+  "name": "intro-software",
+  "version": "1.0.0",
+  "description": "Introductie oefeningen",
+  "main": "start.js",
+  "scripts": {
+    "start": "node start.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Turbootzz/intro-software.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Turbootzz/intro-software/issues"
+  },
+  "homepage": "https://github.com/Turbootzz/intro-software#readme"
+}
