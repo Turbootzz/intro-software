@@ -115,7 +115,7 @@ nav {
     width: 90vw;
     height: 90vh;
     margin-top: 70px;
-    margin-bottom: 70px;
+    margin-bottom: 30px;
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     background-color: #fff;
@@ -131,7 +131,8 @@ nav {
     margin: 20px;
     background-color: rgb(24, 24, 24);
     padding: 1rem;
-    border-radius: 0 1rem 1rem 0;
+    padding-right: 30px;
+    border-radius: 1rem 1rem 1rem 1rem;
     overflow: hidden;
 }
 
@@ -148,22 +149,25 @@ h1 > img {
 }
 
 .code textarea {
-    width: 100%;
-    height: calc(100% - 4rem);
+    width: 96%;
+    height: calc(90% - 4rem);
     background-color: rgb(44, 44, 44);
     color: whitesmoke;
     border: none;
     padding: 1rem;
+    margin-right: 200px;
     font-size: 1.1rem;
     resize: vertical;
+
 }
 
 .code textarea::-webkit-scrollbar {
     width: .4rem;
 }
 .code textarea::-webkit-scrollbar-thumb {
-    background-color: var(--pink);
+    background-color: pink;
     border-radius: .4rem;
+
 }
 
 #result {
@@ -194,9 +198,17 @@ h1 > img {
     height: 100vh;
     display: flex;
     justify-content: center;
+    align-items: center;
+    flex-direction: column;
 }
 
 .footer-logo img {
     object-fit: contain;
-    height: 200px;
+    height: 200px
+}
+
+.footer-content-container {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
 }
