@@ -189,7 +189,8 @@ h1 > img {
 /* Footer */
 
 .footer-container {
-    background: black;    
+    background: black;
+    color: white;    
     height: 100vh;
     display: flex;
     justify-content: center;
