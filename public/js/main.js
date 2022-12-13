@@ -1,15 +1,10 @@
 console.log("testt");
 
-/*
-Live Code Editor 
-By: Coding Design
-You can do whatever you want with the code. However if you love my content, you can subscribed my YouTube Channel
-🌎link: www.youtube.com/codingdesign
-*/
-
 const html_code = document.querySelector('.html-code textarea');
 const css_code = document.querySelector('.css-code textarea');
-const js_code = document.querySelector('.js-code textarea');
+const 
+js_code = document.querySelector('.js-code textarea');
+const cs_code = document.querySelector('.cs-code textarea');
 const result = document.querySelector('#result');
 
 function run() {
