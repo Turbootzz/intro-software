@@ -8,6 +8,13 @@
 
 /* Shared */
 
+:root {
+    --dark-blue: #14007a;
+    --blue: #1a009c;
+    --light-blue: rgb(74, 225, 255);
+    --pink: rgb(255, 40, 113);
+}
+
 body {
     margin: 0;
     font-family: 'Courier New', Courier, monospace;
@@ -107,7 +114,8 @@ nav {
 .code-editor {
     width: 90vw;
     height: 90vh;
-    margin-top: 45px;
+    margin-top: 70px;
+    margin-bottom: 70px;
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     background-color: #fff;
